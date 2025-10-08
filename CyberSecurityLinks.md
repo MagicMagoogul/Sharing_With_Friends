@@ -7,8 +7,8 @@
 # Cool Ethical Hackers
     - https://0xdf.gitlab.io/
 
-#
-
+# Companies in our field
+        https://www.cadre5.com/Projects - Connected with Y12- could get a interview through them
 #
 
 #
